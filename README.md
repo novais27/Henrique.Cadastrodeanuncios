@@ -1,6 +1,6 @@
 ______________________________
 
-Empresa: Capgemini 
+Empresa: Divulga Tudo 
 Desenvolvedor: Henrique Freitas Novais
 Data: 16/05/2021
 Programa: Cadastro de anúncios
